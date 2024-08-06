@@ -53,6 +53,10 @@ export function App(){
             })
         }
 
+            <TwitterFollowCard  formatUserName={formatUserName} userName="pheralb" >
+                Pablo Hernandez
+            </TwitterFollowCard>
+           
 
         </section>
 
